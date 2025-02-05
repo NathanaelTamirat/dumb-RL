@@ -1,9 +1,3 @@
-"""
-Utilities module containing helper functions for the Deep Q-Learning - Lunar Lander
-Jupyter notebook (C3_W3_A1_Assignment) from DeepLearning.AI's "Unsupervised Learning,
-Recommenders, Reinforcement Learning" course on Coursera.
-"""
-
 import base64
 import random
 from itertools import zip_longest
